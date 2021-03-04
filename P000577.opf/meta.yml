@@ -1,15 +1,16 @@
-id: opecha:P000577
+id: P000577
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1AC52
   title: བྱམས་ཆོས་སྡེ་ལྔ།
-  volume:
+  author: ''
+  volumes:
     df43596de78c41a887f5946fe1d55773:
       image_group_id: I2PD18926
       title: Volume 1 of byams chos sde lnga/
       volume_number: 1
       total_pages: 216
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བྱམས་ཆོས་སྡེ་ལྔ།
   author: ''
